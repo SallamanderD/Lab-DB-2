@@ -1,0 +1,11 @@
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\bin\Debug\Hostel.exe.config
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\bin\Debug\Hostel.exe
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\bin\Debug\Hostel.pdb
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\obj\Debug\Hostel.MainForm.resources
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\obj\Debug\Hostel.Properties.Resources.resources
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\obj\Debug\Hostel.csproj.GenerateResource.Cache
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\obj\Debug\Hostel.exe
+c:\users\alex-pc\documents\visual studio 2015\Projects\Hostel\Hostel\obj\Debug\Hostel.pdb
+C:\Users\Alex-PC\documents\visual studio 2015\Projects\Hostel\Hostel\bin\Debug\Hostel.mdf
+C:\Users\Alex-PC\documents\visual studio 2015\Projects\Hostel\Hostel\bin\Debug\Hostel_log.ldf
+C:\Users\Alex-PC\documents\visual studio 2015\Projects\Hostel\Hostel\obj\Debug\Hostel.RSForm.resources
